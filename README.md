@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=saier-9&abbreviated=true&color=brightgreen"/>
   <img src="https://img.shields.io/github/followers/Saier-9?label=Followers&style=flat&color=brightgreen"/><br>
   <img src="https://badges.strrl.dev/repos/Saier-9"/>
-  <img src="https://badges.strrl.dev/commits/all/Saier-9"/>
   <img src="https://badges.strrl.dev/contributions/all/Saier-9"/>
 </p>
 
