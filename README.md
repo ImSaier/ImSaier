@@ -1,6 +1,6 @@
 <h1 align="center">Saier</h1>
-<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNlOWgxcThuNWVldDNzaDJrb3cwZDEzc2s2bTNxZ2s4MjhwcHB0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xULW8l2gXuRPmsQe8U/giphy.gif" width="30%" style="display:inline;">
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNlOWgxcThuNWVldDNzaDJrb3cwZDEzc2s2bTNxZ2s4MjhwcHB0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xULW8l2gXuRPmsQe8U/giphy.gif" width="30%" style="display:inline;">
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNlOWgxcThuNWVldDNzaDJrb3cwZDEzc2s2bTNxZ2s4MjhwcHB0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xULW8l2gXuRPmsQe8U/giphy.gif" width="30%" height=350 style="display:inline;">
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNlOWgxcThuNWVldDNzaDJrb3cwZDEzc2s2bTNxZ2s4MjhwcHB0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xULW8l2gXuRPmsQe8U/giphy.gif" width="30%" height=350 style="display:inline;">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saier-9&abbreviated=true&color=brightgreen"/>
